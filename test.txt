@@ -1,0 +1,19 @@
+This is a little test to add a new file to a new branch.
+
+Steps to get files into github:
+
+1. Create a new branch
+> git checkout -b <branch name>
+
+2. Push the new branch to github
+> git push origin <branch name>
+
+3. Add a text file to the branch
+> git add <filename>
+
+3. Commit the file to the branch
+> git commit -m "type something describing the commit"
+
+4. Push your changes to github repository
+> git push
+
